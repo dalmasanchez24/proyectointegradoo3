@@ -12,7 +12,7 @@ examen
 * Acompaña al plan, un sistema de control en los ejercicios físicos rutinarios a desarrollar, _verificando pulsaciones_.
 
 ### Se adjunta el plan  con calendario
-[[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1zHWs0sgCYtHj5NB6-0VNMJlQIAtYStGweoLlyE6tIdQ/edit?tab=t.0)]
+[[Plan Dieta Antiinflamatoria](https://docs.google.com/document/d/1zHWs0sgCYtHj5NB6-0VNMJlQIAtYStGweoLlyE6tIdQ/edit?tab=t.0#heading=h.iydvw2k7q486)]
 
 ### Se adjunta una muestra de como llevar el control de pulsaciones
 [[Control Cardio](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
