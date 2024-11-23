@@ -18,4 +18,4 @@ examen
 [[Control Cardio](AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
 
 ### Presentaciones sobre rutinas y ejercicios para mantener el físico ante cambios alimenticios.
-[[Presentaciones]((https://app.presentations.ai/#/docs/edit/10278423]
+[[Presentaciones]((https://app.presentations.ai/view/atq76Q]
